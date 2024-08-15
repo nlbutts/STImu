@@ -1,0 +1,10 @@
+Designator,Comment,Footprint,JLCPCB
+C1,100n,Capacitor_SMD:C_0603_1608Metric,
+C2,100n,Capacitor_SMD:C_0603_1608Metric,
+D1,LED,LED_SMD:LED_0603_1608Metric,
+R1,2.2k,LED_SMD:LED_0603_1608Metric,
+R2,2.2k,Resistor_SMD:R_0603_1608Metric,
+R3,330,Resistor_SMD:R_0603_1608Metric,
+R4,0,LED_SMD:LED_0603_1608Metric,
+R5,0,LED_SMD:LED_0603_1608Metric,
+U1,LSM6DSM,Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,C94048
